@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# (c) 2020 SuperSonic (https://github.com/supersonictw)
+
 import json
 from abc import ABC
 
